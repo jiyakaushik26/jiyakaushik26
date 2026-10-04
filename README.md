@@ -88,15 +88,6 @@ Worked with Git, Postman and data visualisation to transform raw financial data 
 
 ---
 
-## 🏆 Achievements
-
-- 🥇 Top 8 — Qualcomm Snapdragon Multiverse Hackathon
-- 💻 Active Open Source Contributor
-- 🚀 Built and participated in multiple hackathons and product-based projects
-- 🌐 Experience working with real-world GitHub issues, pull requests and collaborative development
-
----
-
 ## 🌍 Open Source
 
 I enjoy contributing beyond personal projects — understanding existing codebases, reproducing issues, implementing fixes and working through the review process.
